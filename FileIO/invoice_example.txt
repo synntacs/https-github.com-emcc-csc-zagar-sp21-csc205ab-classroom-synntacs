@@ -1,0 +1,9 @@
+The following lines show what your invoice.txt file should look like.
+
+Qty  Description          Price    Ext
+  5  Backpack             $ 19.99  $ 99.95
+ 10  Paper                $  0.99  $  9.90
+  3  Pens                 $  1.49  $  4.47
+  2  Pencils              $  1.19  $  2.38
+
+Total: $ 116.70
